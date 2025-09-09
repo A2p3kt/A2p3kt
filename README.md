@@ -12,7 +12,7 @@
 - **Languages:** Python, Java, JavaScript, SQL
 - **Editors/IDEs:** VSCode, Eclipse
 - **Version Control:** Git, GitHub
-- **Frameworks:** Django, Flask 
+- **Frameworks:** Django, Flask, Express(Node.js) 
 - **Cloud & Infra:** AWS (Lambda), Azure (in progress), Linux  
 - **Other:** Networking basics, Security fundamentals  
 
